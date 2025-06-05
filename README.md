@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashwanth-narala
-- 👀 I’m interested in ai data scientist
-- 🌱 I’m currently learning data science using python
+- 👀 I’m interested Full stack web development
+- 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail
 - 😄 Pronouns: yash
